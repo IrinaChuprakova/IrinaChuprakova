@@ -11,7 +11,7 @@
 
 ### Контакты для связи:
 * E-mail: cool.iren1@yandex.ru
-* Telegram @IrinaChuprakova
+* Telegram: @IrinaChuprakova
 
 
 
