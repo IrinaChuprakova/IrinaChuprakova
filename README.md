@@ -1,5 +1,5 @@
 ### Привет! Меня зовут Ирина👋
-Начала свой путь в веб-разработку в ноябре 2021 с прохождения курса "Веб-разработчик" от Яндекс Практикума.
+
 ### :hammer_and_wrench: Мой стек:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
